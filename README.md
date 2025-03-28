@@ -2,11 +2,6 @@
 
 This repository contains my learning materials and implementations while studying PyTorch from the YouTube playlist: [PyTorch Course](https://www.youtube.com/playlist?list=PLKnIA16_Rmvboy8bmDCjwNHgTaYH2puK7)
 
-## About Me
-- 3rd Year Electrical and Electronics Engineering Student
-- Beginner in PyTorch
-- Learning Deep Learning and Neural Networks
-
 ## Course Structure
 This repository will be organized according to the course playlist, with each section containing:
 - Code implementations
